@@ -1,0 +1,18 @@
+{
+  "name": "sweetest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contracts-js": "^0.6.3",
+    "es6-macros": "0.0.7",
+    "harmony-reflect": "^1.1.1",
+    "sparkler": "^0.3.5",
+    "sweet.js": "^0.7.4"
+  }
+}
